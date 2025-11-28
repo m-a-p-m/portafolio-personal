@@ -1,2 +1,2 @@
 console.log("Bienvenido!")
-alert("Hola... soy pepito...")
+document.querySelector('h1').addEventListener('click', ()=>{alert("Hola... soy pepito...")});
